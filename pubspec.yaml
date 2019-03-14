@@ -1,0 +1,21 @@
+name: colorthief
+description: A new flutter plugin project.
+version: 0.0.1
+author: Yassine Fathi <yassine_fathi@outlook.com>
+homepage: https://m4tt72.com
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  plugin:
+    androidPackage: dev.m4tt72.plugins.colorthief
+    pluginClass: ColorthiefPlugin

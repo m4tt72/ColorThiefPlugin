@@ -1,0 +1,22 @@
+name: colorthief_example
+description: Demonstrates how to use the colorthief plugin.
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: 0.5.0+6
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  colorthief:
+    path: ../
+
+flutter:
+  uses-material-design: true
