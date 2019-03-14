@@ -12,7 +12,7 @@ import 'package:colorthief/colorthief.dart' as ColorThiefProvider;
 
 getColors() async {
     File image; // From image_picker or somewhere else
-    List<CT.Color> palette = await ColorThiefProvider.Colorthief.getPalette(image: image, size: 12);
+    List<ColorThiefProvider.Color> palette = await ColorThiefProvider.Colorthief.getPalette(image: image, size: 12);
     print(_palette);
 }
 
