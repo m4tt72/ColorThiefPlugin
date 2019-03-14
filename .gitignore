@@ -13,3 +13,4 @@ pubspec.lock
 /coverage/
 *.log
 .metadata
+.vscode
