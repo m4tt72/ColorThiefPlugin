@@ -2,7 +2,9 @@
 
 A Flutter plugin that grabs the dominant color or a representative color palette from an image.
 
-*Note*: This plugin is still under development. [Feedback welcome](https://github.com/m4tt72/ColorThiefPlugin/issues) and [Pull Requests](https://github.com/m4tt72/ColorThiefPlugin/pulls) are most welcome!
+It's used in [12 Colors](https://play.google.com/store/apps/details?id=dev.m4tt72.twelvecolors) android app.
+
+*Note*: This plugin is still under development iOS is not currently supported. [Feedback welcome](https://github.com/m4tt72/ColorThiefPlugin/issues) and [Pull Requests](https://github.com/m4tt72/ColorThiefPlugin/pulls) are most welcome!
 
 ## Example
 
